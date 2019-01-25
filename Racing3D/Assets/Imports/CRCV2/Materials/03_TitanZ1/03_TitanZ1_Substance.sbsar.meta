@@ -1,0 +1,60 @@
+fileFormatVersion: 2
+guid: 9db58d5748528db49bec4357112ac5a1
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: 03_TitanZ1_Substance/03_TitanZ1_Substance
+    400000: 03_TitanZ1_Substance/03_TitanZ1_Substance/Transform
+    2100000: mat.03_TitanZ1_Substance
+    2300000: 03_TitanZ1_Substance/03_TitanZ1_Substance/MeshRenderer
+    2800000: 03_TitanZ1_Substance_Diffuse
+    3300000: 03_TitanZ1_Substance/03_TitanZ1_Substance/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    13500000: 03_TitanZ1_Substance/03_TitanZ1_Substance/SphereCollider
+    100100000: 03_TitanZ1_Substance
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  mGraphInstanceData:
+  - graphLabel: 03_TitanZ1_Substance
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://03_TitanZ1_Substance\" label=\"\" >\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: Diffuse
+    texturePackingList:
+    - outputName: Diffuse
+      alphaSource: Diffuse
+    colorSpaceList:
+    - outputName: Diffuse
+      bLinear: 0
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    material: {fileID: 2100000, guid: 9db58d5748528db49bec4357112ac5a1, type: 3}

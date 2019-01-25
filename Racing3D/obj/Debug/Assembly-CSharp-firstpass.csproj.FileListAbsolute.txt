@@ -1,0 +1,2 @@
+E:\LLP\Games\Racing3D\Racing3D\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+E:\LLP\Games\Racing3D\Racing3D\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
