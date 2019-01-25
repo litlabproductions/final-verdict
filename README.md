@@ -1,5 +1,3 @@
 # FinalVerdict
 ## 3D Endless Driver
-
-![fv_gif](https://user-images.githubusercontent.com/34845402/51771058-a7941e80-209c-11e9-86a3-afb8ae60cd52.gif)
-
+![fv_gif2](https://user-images.githubusercontent.com/34845402/51771885-520d4100-209f-11e9-8a15-8e543af54524.gif)
