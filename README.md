@@ -17,8 +17,8 @@
 
 ***
 
-<br/><br/>
-Thanks for reading<br/>
+<br/>
+Thanks for reading!<br/>
 
 If you like what you see give this repo  
 a star and share it with your friends.
