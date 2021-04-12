@@ -14,9 +14,9 @@
 
 If you like what you see give this repo  
 a star and share it with your friends!
-  
-Thanks for reading 😄  
-Your support is appreciated<br/><br/>  
+<br/><br/>😄 
+Thanks for reading, your 
+support is greatly appreciated<br/><br/>  
 [***David Guido***](https://www.litlabproductions.com/resume-view) :rocket:  
 [***Lit Lab Productions***](https://www.litlabproductions.com)
 <br/>
