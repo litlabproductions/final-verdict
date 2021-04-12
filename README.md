@@ -12,13 +12,14 @@
 ***
 
 <br/>
+
 ##### Find constant updates here: https://www.instagram.com/litlabproductions/
 <br/><br/>
 
 If you like what you see give this repo  
 a star and share it with your friends!
 
-<br/><br/>😄<br/>
+<br/>😄<br/>
 Thanks for reading, your support<br/>
 is greatly appreciated!<br/><br/> 
 
