@@ -17,13 +17,13 @@
 
 ***
 
-If you like what you see give this repo  
-a star and share it with your friends!
-
 😄<br/>
-Thanks for reading, your support<br/>
-is greatly appreciated!<br/><br/> 
+Thanks for reading<br/>
 
+If you like what you see give this repo  
+a star and share it with your friends.
+
+Your support is greatly appreciated!<br/><br/>
 
 ***
 
