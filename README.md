@@ -20,6 +20,6 @@ Your support is appreciated<br/><br/>
 [***David Guido***](https://www.litlabproductions.com/resume-view) :rocket:  
 [***Lit Lab Productions***](https://www.litlabproductions.com)
 <br/>
-#### Find constant updates here:
+### Find constant updates here:
 https://www.instagram.com/litlabproductions/
 <br/><br/>
