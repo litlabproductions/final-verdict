@@ -10,15 +10,14 @@
 ![fv_gif2](https://user-images.githubusercontent.com/34845402/51771885-520d4100-209f-11e9-8a15-8e543af54524.gif)
 
 ***
-<br/>
-
+ 
 ##### Find constant updates here: https://www.instagram.com/litlabproductions/
 <br/>
 
 If you like what you see give this repo  
 a star and share it with your friends!
 
-<br/>😄<br/>
+😄<br/>
 Thanks for reading, your support<br/>
 is greatly appreciated!<br/><br/> 
 
