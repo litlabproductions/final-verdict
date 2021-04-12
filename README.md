@@ -17,8 +17,8 @@ a star and share it with your friends!
   
 Thanks for reading 😄  
 Your support is appreciated<br/>  
-[***David Guido***](https://www.litlabproductions.com) :rocket:  
-[***Lit Lab Production***](https://www.litlabproductions.com/resume-view)
+[***David Guido***](https://www.litlabproductions.com/resume-view) :rocket:  
+[***Lit Lab Productions***](https://www.litlabproductions.com)
 <br/>
 #### Find constant updates here:
 https://www.instagram.com/litlabproductions/
