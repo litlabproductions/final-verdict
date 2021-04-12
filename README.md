@@ -17,7 +17,7 @@
 
 ***
 
-😄<br/>
+<br/><br/>
 Thanks for reading<br/>
 
 If you like what you see give this repo  
