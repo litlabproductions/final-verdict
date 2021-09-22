@@ -7,25 +7,25 @@
 ***
 
 ## Table of contents
-- [Final Verdict](#maze)
+- [Final Verdict](#final-verdict)
   - [Objective](#objective)
-    - [Avoid Objects](#avoid-objects)
   - [Development](#development)
     - [Randomized Environment](#randomized-environment)
     - [Exhaust](#exhaust)
     - [Cameras](#cameras)
 ***
 
-## Avoid Objects
-
-  * **A Constant, Increasing Speed**
-      * As the **On the run** timer increases, the players car will continue speeding up incrementally until they total the vehicle or are arrested  <br><br>
-![maze-demo-03](https://user-images.githubusercontent.com/34845402/131578148-3146f1ae-e9bd-4678-bbfd-96c6b0c7e018.gif)
-<br><br><br>
+# Objective
 
   * **Outlast Previous High Score**
       * How long can you last before totalling your vehicle or being arrested? <br><br>
-![2](https://user-images.githubusercontent.com/34845402/132146018-43a59149-2371-4a82-89d5-a08b808f5dec.png)
+![22](https://user-images.githubusercontent.com/34845402/134415973-4246a28f-3eb0-4ebe-a14a-572054fea9b0.gif)
+![3](https://user-images.githubusercontent.com/34845402/134415688-807e8eea-0c8d-45f6-aa16-26eab22bf128.gif)
+<br><br><br>
+
+  * **A Constant, Increasing Speed**
+      * As the **On the run** timer increases, the players car will continue speeding up incrementally until they total the vehicle or are arrested  <br><br>
+![1](https://user-images.githubusercontent.com/34845402/134414536-4ae2d2b5-0da5-4b7e-895b-1c7e60919aa5.gif)
 <br><br><br>
 
 ***
@@ -35,85 +35,37 @@
 
 ### Randomized Environment 
    * Five random obstacle prefabs are always spawned just ahead of the player. Because of this, no two games will ever be identical <br><br>
-![random-env](https://user-images.githubusercontent.com/34845402/132150061-a1c6b8e2-1960-420d-baf1-f6e57a5d6166.png)<br><br><br>
+![111](https://user-images.githubusercontent.com/34845402/134417245-e81d11f1-6746-4a70-acbf-ea2d413db4e6.png) <br><br><br>
 
 
 ### Exhaust
    * One of my favorite default particle prefabs within Unity is “After Burner”. With a little adjustment, it makes for a quick exhaust effect. <br><br>
-![maze-proto01](https://user-images.githubusercontent.com/34845402/131583225-f4b54127-b7d3-4956-b6b0-6c276a81a5e4.gif) &nbsp;&nbsp;
-![move](https://user-images.githubusercontent.com/34845402/132148820-e8f4f6de-0539-47b7-83ed-8ebe6bb580c9.png)<br><br><br>
+![4](https://user-images.githubusercontent.com/34845402/134418316-b1e6478f-55cf-4524-826b-e8f89c1f075c.gif)
+<br><br><br>
 
    * To create a more realistic look, a script is attached to the After Burner particle system, allowing for its size and speed to scale with the velocity of the (grand) parent vehicle it’s attached to <br><br>
-![maze-proto00](https://user-images.githubusercontent.com/34845402/131583224-6f6b0f01-a1c3-4786-bb94-fa530c0dbb51.gif)&nbsp;&nbsp;
-![die](https://user-images.githubusercontent.com/34845402/132148818-f410accc-7d13-4c63-a68d-22ddf7889011.png)<br><br><br>
+![5](https://user-images.githubusercontent.com/34845402/134418321-b2c2af06-2035-424e-8af1-9eef1723a7e9.gif) <br><br><br>
 
 
 ### Cameras
    * Choose from three cameras: Third Person Cam, Heli Cam or Top Down Cam <br><br>
 
   * **Third Person Cam** <br><br>
-![maze-demo-03](https://user-images.githubusercontent.com/34845402/131578148-3146f1ae-e9bd-4678-bbfd-96c6b0c7e018.gif)
+![3p4](https://user-images.githubusercontent.com/34845402/134420251-d7a38e80-d9f1-40c4-824f-0a5c63d708af.png)
 <br><br><br>
 
-  * **Heli Cam ** <br><br>
-![maze-demo-03](https://user-images.githubusercontent.com/34845402/131578148-3146f1ae-e9bd-4678-bbfd-96c6b0c7e018.gif)
+  * **Heli Cam** <br><br>
+![hc3](https://user-images.githubusercontent.com/34845402/134420074-1eb19f03-e88d-4b68-8d54-4ca5882a2ea2.png)
 <br><br><br>
 
   * **Top Down Cam** <br><br>
-![maze-demo-03](https://user-images.githubusercontent.com/34845402/131578148-3146f1ae-e9bd-4678-bbfd-96c6b0c7e018.gif)
+![td3](https://user-images.githubusercontent.com/34845402/134420076-65cf9398-3a28-4e7a-9231-897a1f9d2eaa.png)
 <br><br><br>
      
      
 ***
 
 <br><br>
-Thanks for reading!<br/><br/>
- 
-If you like what you see give this repo  
-a star and share it with your friends.
-
-Your support is greatly appreciated!<br/><br/>
-
-
-[***David Guido***](https://www.litlabproductions.com/resume-view) :rocket:  
-[***Lit Lab Productions***](https://www.litlabproductions.com)
-<br/><br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Final Verdict
-  
-### 3D Endless Driver
-#### Lose them or you're going away for a long time!
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
-<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
-[Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html)
-***
-<br/><br/>
-![fv_gif2](https://user-images.githubusercontent.com/34845402/51771885-520d4100-209f-11e9-8a15-8e543af54524.gif)
-
-<br>
-
-***
-
-
-##### Find constant updates here: https://www.instagram.com/litlabproductions/
-
-
-***
-
-<br/>
 Thanks for reading!<br/><br/>
  
 If you like what you see give this repo  
