@@ -14,6 +14,10 @@
     - [Exhaust](#exhaust)
     - [Cameras](#cameras)
 ***
+<br><br>
+![fv-icon](https://user-images.githubusercontent.com/34845402/134785934-20b56c5f-09ab-4fad-8e0e-6dfbc76e566f.png)
+
+<br>
 
 # Objective
 
